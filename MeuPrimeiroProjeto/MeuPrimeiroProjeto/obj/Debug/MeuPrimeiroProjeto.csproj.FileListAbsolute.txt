@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+C:\Users\joaov\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
