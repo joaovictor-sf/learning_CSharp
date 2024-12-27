@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\bin\Debug\NumericFormat.exe.config
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\bin\Debug\NumericFormat.exe
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\bin\Debug\NumericFormat.pdb
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\obj\Debug\NumericFormat.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\obj\Debug\NumericFormat.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\obj\Debug\NumericFormat.exe
+C:\Users\joaov\source\repos\NumericFormat\NumericFormat\obj\Debug\NumericFormat.pdb

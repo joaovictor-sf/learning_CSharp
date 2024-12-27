@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\obj\Debug\OddOrEven.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\joaov\source\repos\OddOrEven\OddOrEven\obj\Debug\OddOrEven.pdb

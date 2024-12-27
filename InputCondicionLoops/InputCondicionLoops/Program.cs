@@ -27,6 +27,7 @@ namespace InputCondicionLoops
 
                 string result = age > 120 ? "How you are alive?" : "Ok";
                 Console.WriteLine(result);
+                Console.WriteLine(age > 120 ? "How you are alive?" : "Ok");
             }
             else
             {
