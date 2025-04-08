@@ -1,0 +1,28 @@
+# List all games
+GET http://localhost:5065/games
+
+### Get a game by id
+GET http://localhost:5065/games/1
+
+### Create a new game
+POST http://localhost:5065/games
+Content-Type: application/json
+{
+    "name": "Game 1",
+    "genre": "Action",
+    "price": 100,
+    "releaseDate": "2021-01-01"
+}
+
+### Update game
+PUT http://localhost:5065/games/7
+Content-Type: application/json
+{
+    "name": "Game 2",
+    "genre": "Action",
+    "price": 100,
+    "releaseDate": "2021-01-01"
+}
+
+### Delete game
+DELETE http://localhost:5065/games/7

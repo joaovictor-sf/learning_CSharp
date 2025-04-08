@@ -40,6 +40,23 @@ namespace NumericFormat
             Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
             Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("pt-PT")));
 
+            string input = Console.ReadLine();
+            int.TryParse(input, out int result);
+            if (result == 0)
+            {
+                Console.WriteLine("Fail");
+            }
+            else
+            {
+                Console.WriteLine(result);
+            }
+
+            input = Console.ReadLine();
+            if(int.TryParse(input, out int result2))
+            {
+                Console.WriteLine(result2);
+            }
+
         }
     }
 }

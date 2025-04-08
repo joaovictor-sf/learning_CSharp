@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\StringDetails\StringDetails\bin\Debug\StringDetails.exe.config
+C:\Users\joaov\source\repos\StringDetails\StringDetails\bin\Debug\StringDetails.exe
+C:\Users\joaov\source\repos\StringDetails\StringDetails\bin\Debug\StringDetails.pdb
+C:\Users\joaov\source\repos\StringDetails\StringDetails\obj\Debug\StringDetails.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\StringDetails\StringDetails\obj\Debug\StringDetails.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\StringDetails\StringDetails\obj\Debug\StringDetails.exe
+C:\Users\joaov\source\repos\StringDetails\StringDetails\obj\Debug\StringDetails.pdb

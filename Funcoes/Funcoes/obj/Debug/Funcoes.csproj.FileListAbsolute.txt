@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\joaov\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\joaov\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\joaov\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\joaov\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.pdb
